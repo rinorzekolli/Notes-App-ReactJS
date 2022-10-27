@@ -2,6 +2,20 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+#About APP
+In the Note Challenge APP, I have built a page where notes can be saved, also several different categories. This project includes ReactJS technology. I have work with things like Components, Hooks, Props and some others.
+
+If you have problems with opening the application you can see it in this link that I put live: https://rinorzekolli-spacex-project.netlify.app/
+
+Tech stack Core:
+
+React.js
+SCSS
+Communication tool:
+
+GraphQL
+Apollo
+
 ## Available Scripts
 
 In the project directory, you can run:
