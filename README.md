@@ -10,11 +10,8 @@ If you have problems with opening the application you can see it in this link th
 Tech stack Core:
 
 React.js
-SCSS
-Communication tool:
+CSS
 
-GraphQL
-Apollo
 
 ## Available Scripts
 
